@@ -4,7 +4,7 @@
 */
 
 // Configuração da API
-const API_URL = "."; // Usar caminho relativo para API no mesmo servidor
+const API_URL = "https://barbershop-backend-kx5g.onrender.com"; // Usar caminho relativo para API no mesmo servidor
 let token = localStorage.getItem("token");
 let currentUser = null;
 
