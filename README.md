@@ -488,3 +488,6 @@ Por padrão, todos os usuários são criados com a role "user". Para dar permiss
 *   **Imagens de Referência (Usuário):** As imagens enviadas pelos usuários durante o agendamento podem ser visualizadas na seção "Meu Perfil", dentro dos detalhes de cada agendamento.
 
 ## Endpoints da API
+```bash
+https://barbershop-backend-yrzz.onrender.com
+```
